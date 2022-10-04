@@ -1,35 +1,13 @@
-# whatsapp-clone ( using MERN stack )
+# Whatsapp-clone
+Hey, everyone. Here we go, I have finished a whatsapp clone project by watching Clever Programmer's YouTube channel, and here I have learned about MERN (MongoDb, ExpressJs, ReactJs, NodeJs) and also learned how the entire web app actually works, including both the frontend & backend, and how to connect the database with server code in real time. Then I have learned how to connect frontend app to backend, and then also I have learned how to use so kindly refer to it
 
-Heloo every one.. I have done a whatsapp-clone by watching Clever Programmer. It almost 4hrs video.
-I have very exicted to learn front-end & back-end technology. And i have learn lot more languages,API's etc..  
-# What is MERN Stack Developer ?
+# About MERN Stack:
+MERN stack is a collection of technologies that enables faster application development. The main purpose of using Mern stack is to develop apps using JavaScript only. And MERN stands for "M" MongoDB which is a non-relational document based database that provides support for json data and it has flexible data model that enables you to store unstructured data. "E" stands for Express is a node js web application framework that provides broad features for building web and mobile applications. It is used to build a single page, multipage, and hybrid web application. "R" Stands for react js which one of the most popular and free and open-source front-end JavaScript library for building user interfaces based on UI components. "N" stands for Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on a JavaScript Engine and executes JavaScript code outside a web browser
 
-MERN stands for MongoDB, Express, React, Node, after the four key technologies that make up the stack.
-
-MongoDB - document database  
-Express(.js) - Node.js web framework  
-React(.js) - a client-side JavaScript framework  
-Node(.js) - the premier JavaScript web server  
-
-# How to Run:-
-
--> Download ZIP File And Save it on your localhost  
--> Go For whatsapp-clone/whatsapp-mern folder and run ( #yarn start ). Then  
--> Go For whatsapp-clone/whatsapp-backend folder and run ( #nodemon Server.js ).  
-# Packages to install
-
-    Express ( npm i express )  
-    Nodemon ( npm i nodemon )  
-    Pusher ( npm i pusher )  
-    yarn ( yarn install )  
-
-# Technology Used ?
-
-. Mongodb  
-. Express.js  
-. Mongodb  
-. Node.js  
-. Postman API  
-. Pusher  
-. FireBase  
-. Material UI  
+# Getting Started
+* In the backend directory, you can run:
+### `npm install`
+This will install the dependencies in the local node_modules folder 
+### `npm start` or `npx nodemon server.js`
+To view it in browser open [http://localhost:9000](http://localhost:9000)
+* Upon receiving the DB Connected message following a successful frontend run, navigate to the frontend directory and follow the same procedures.
